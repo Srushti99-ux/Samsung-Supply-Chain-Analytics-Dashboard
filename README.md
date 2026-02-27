@@ -50,31 +50,31 @@ This is a known drawback of using synthetic data, but it still provides strong h
  2. DAX calculations
  3. Business interpretation
 
-🔎 Dashboard Pages
+🔎 Dashboard Pages 
 
-1️⃣ Executive Overview !2.png
+1️⃣ Executive Overview ![Executive Overview](Screenshots/Executive_Overview.png)
  • Revenue & Profit KPIs
  • Shipment & Delivery performance
  • Inventory overview
  
-2️⃣ Supplier Analysis ![Supplier Analysis](screenshots/3.png)
+2️⃣ Supplier Analysis ![Supplier Analysis](Screenshots/SupplierAnalysis.png)
  • Average Lead Time by Supplier
  • Procurement Cost
  • Quality Score
  • Country-level supplier performance
 
-3️⃣ Inventory & Production ![Inventory](screenshots/4.png)
+3️⃣ Inventory & Production ![Inventory & Production](Screenshots/Inventory&Production.png)
  • Safety Stock
  • Days of Inventory
  • Defect Rate
  • Monthly Inventory Value Trend
 
-4️⃣ Shipment Performance ![Shipment Performance](screenshots/5.png)
+4️⃣ Shipment Performance ![Shipment Performance](Screenshots/ShipmentPerformance.png)
  • Delay Analysis by Carrier
  • Shipment Cost Trend
  • Delay Reasons
 
-5️⃣ Sales Performance  ![Sales Performance](screenshots/6.png)
+5️⃣ Sales Performance  ![Sales Performance](Screenshots/SalesPerformance.png)
  • Revenue by Channel (Online / Retail / Direct)
  • Profit Growth by Month
  • Discount Analysis by Product Category
