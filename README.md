@@ -52,7 +52,7 @@ This is a known drawback of using synthetic data, but it still provides strong h
 
 🔎 Dashboard Pages
 
-1️⃣ Executive Overview ![Executive Overview](screenshots/2.png)
+1️⃣ Executive Overview !2.png
  • Revenue & Profit KPIs
  • Shipment & Delivery performance
  • Inventory overview
