@@ -50,12 +50,12 @@ The dashboard is designed to monitor and optimize:
  
 ## 📈 Key KPIs Tracked
 
- - **Total Revenue: ** 176.95M
- - **Profit: ** 48.56M
- - **Profit Margin: ** 27.44%
- - **Perfect Order Rate: ** 75%
- - **Total Shipments: ** 7.5K
- - **Total Delay Shipments: ** 573
+ - Total Revenue: 176.95M
+ - Profit: 48.56M
+ - Profit Margin: 27.44%
+ - Perfect Order Rate: 75%
+ - Total Shipments: 7.5K
+ - Total Delay Shipments: 573
 
 ---
 
@@ -79,16 +79,22 @@ This is a known drawback of using synthetic data, but it still provides strong h
 
 ## 🔎 Dashboard Pages ![Dashboard Preview](screenshots/dashboard_preview.png)
 
+---
+
 ### 1️⃣ Executive Overview ![Executive Overview](screenshots/executive_overview.png)
  • Revenue & Profit KPIs
  • Shipment & Delivery performance
  • Inventory overview
- 
+
+ ---
+
 ### 2️⃣ Supplier Analysis ![Supplier Analysis](screenshots/supplier_analysis.png)
  • Average Lead Time by Supplier
  • Procurement Cost
  • Quality Score
  • Country-level supplier performance
+
+---
 
 ### 3️⃣ Inventory & Production ![Inventory & Production](screenshots/inventory_production.png)
  • Safety Stock
@@ -96,10 +102,14 @@ This is a known drawback of using synthetic data, but it still provides strong h
  • Defect Rate
  • Monthly Inventory Value Trend
 
+---
+
 ### 4️⃣ Shipment Performance ![Shipment Performance](screenshots/shipment_performance.png)
  • Delay Analysis by Carrier
  • Shipment Cost Trend
  • Delay Reasons
+ 
+----
 
 ### 5️⃣ Sales Performance  ![Sales Performance](screenshots/sales_performance.png)
  • Revenue by Channel (Online / Retail / Direct)
